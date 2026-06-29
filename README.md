@@ -1,63 +1,162 @@
-# Hi there, I'm Mohamed Guleid 👋
+<h1 align="center">Hi 👋, I'm Mohamed Guleid</h1>
 
-## 💫 About Me
+<h3 align="center">
+Computer Science Student | Backend Developer | AI & Cybersecurity Enthusiast
+</h3>
 
-🎓 Computer Science Student at Egerton University
+<p align="center">
+Passionate about building scalable backend applications, solving real-world problems, and continuously learning new technologies.
+</p>
 
-💻 Backend Developer
-
-☕ Currently learning Java, Spring Boot, SQL, and C++
-
-🔐 Interested in Cybersecurity
-
-🤖 Exploring Networking
-
-🚀 My goal is to become a world-class Network Engineer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dayaxguleid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-- Java
-- Spring Boot
-- C++
-- SQL
-- MySQL
-- HTML
-- CSS
-- Git
-- GitHub
+🎓 Computer Science Student at **Egerton University**
+
+💻 Passionate about Backend Development
+
+☕ Currently learning **Java, Spring Boot, SQL, C++, and Networking**
+
+🔐 Interested in **Cybersecurity**
+
+🤖 Exploring **Artificial Intelligence & Machine Learning**
+
+📚 Always learning and building projects
+
+🚀 Goal: Become a world-class Software Engineer
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Current Focus
 
-- Backend Development
-- Networking
-- Cybersecurity
-- AI & Machine Learning
+- 🌱 Spring Boot
+- ☕ Java
+- 🗄️ MySQL
+- 🌐 Computer Networks
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- ⚙️ Software Engineering
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,html,css,js,mysql,git,github,linux,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dayaxguleid&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaxguleid&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dayaxguleid&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dayaxguleid&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build professional backend projects
-- Master Spring Boot
-- Strengthen networking and cybersecurity skills
-- Contribute consistently on GitHub
-- Create a strong software engineering portfolio## Hi there 👋
+✅ Master Java
 
-<!--
-**dayaxguleid/dayaxguleid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅ Master Spring Boot
 
-Here are some ideas to get you started:
+✅ Build Professional Backend APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Learn Advanced SQL
+
+✅ Master Computer Networking
+
+✅ Learn Cybersecurity
+
+✅ Learn Artificial Intelligence
+
+✅ Contribute to Open Source
+
+✅ Build a Professional Portfolio
+
+---
+
+## 📂 Featured Projects
+
+🚀 School Management System
+
+🚀 Spring Boot REST API
+
+🚀 Java Algorithms & Data Structures
+
+🚀 SQL Database Projects
+
+🚀 Networking Labs
+
+🚀 AI Projects
+
+🚀 Cybersecurity Labs
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dayaxguleid&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+
+💼 GitHub:
+https://github.com/dayaxguleid
+
+</p>
+
+---
+
+## 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>

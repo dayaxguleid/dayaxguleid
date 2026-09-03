@@ -1,162 +1,157 @@
-<h1 align="center">Hi 👋, I'm Mohamed Guleid</h1>
+# Hi, I'm nonchalant 👋
 
-<h3 align="center">
-Computer Science Student | Backend Developer | AI & Cybersecurity Enthusiast
-</h3>
+### 🛡️ Cybersecurity-Focused Computer Science Student
 
-<p align="center">
-Passionate about building scalable backend applications, solving real-world problems, and continuously learning new technologies.
-</p>
+I'm a **Computer Science student at Egerton University** focused on building a career in **Cybersecurity**, with strong supporting skills in **Computer Networking** and **Web Development**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dayaxguleid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+I'm currently developing practical skills in cybersecurity, networking, programming, and software development while building projects and hands-on labs to strengthen my technical foundation.
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Current Focus
 
-🎓 Computer Science Student at **Egerton University**
-
-💻 Passionate about Backend Development
-
-☕ Currently learning **Java, Spring Boot, SQL, C++, and Networking**
-
-🔐 Interested in **Cybersecurity**
-
-🤖 Exploring **Artificial Intelligence & Machine Learning**
-
-📚 Always learning and building projects
-
-🚀 Goal: Become a world-class Software Engineer
+* 🛡️ **Cybersecurity**
+* 🌐 **Computer Networking**
+* 🐧 **Linux & Security Fundamentals**
+* 🐍 **Python for Cybersecurity**
+* 🔎 **Security Tools & Practical Labs**
+* 💻 **Web Development**
+* ☕ **Java & Spring Boot**
+* 🗄️ **SQL & Databases**
 
 ---
 
-## 🚀 Current Focus
+## 🛡️ Cybersecurity
 
-- 🌱 Spring Boot
-- ☕ Java
-- 🗄️ MySQL
-- 🌐 Computer Networks
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence
-- ⚙️ Software Engineering
+I'm building my cybersecurity foundation through hands-on learning and practical labs, focusing on:
 
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,html,css,js,mysql,git,github,linux,vscode"/>
-
-</p>
+* Networking & Network Security
+* Linux
+* Reconnaissance & Enumeration
+* Web Application Security
+* Vulnerability Assessment
+* Security Tools
+* Defensive Security
+* Incident Response Fundamentals
+* Security Automation with Python
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Networking
 
-<p align="center">
+Networking is one of my strongest supporting areas for cybersecurity.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dayaxguleid&show_icons=true&theme=tokyonight"/>
+I'm currently learning and practicing:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaxguleid&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dayaxguleid&theme=tokyonight"/>
-
-</p>
+* TCP/IP
+* OSI Model
+* IPv4 & IPv6
+* Subnetting
+* DNS & DHCP
+* HTTP/HTTPS
+* Routing & Switching
+* VLANs
+* Network Troubleshooting
+* Packet Analysis
+* Cisco Packet Tracer
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 Web Development
 
-<p align="center">
+I also develop web applications to understand how modern applications are built and secured.
 
-<img src="https://github-profile-trophy.vercel.app/?username=dayaxguleid&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+### Technologies
 
-</p>
-
----
-
-## 🎯 2026 Goals
-
-✅ Master Java
-
-✅ Master Spring Boot
-
-✅ Build Professional Backend APIs
-
-✅ Learn Advanced SQL
-
-✅ Master Computer Networking
-
-✅ Learn Cybersecurity
-
-✅ Learn Artificial Intelligence
-
-✅ Contribute to Open Source
-
-✅ Build a Professional Portfolio
+* HTML
+* CSS
+* JavaScript
+* Java
+* Spring Boot
+* MySQL
+* REST APIs
 
 ---
 
-## 📂 Featured Projects
+## 🐍 Programming
 
-🚀 School Management System
+### Languages
 
-🚀 Spring Boot REST API
+* Python
+* Java
+* C
+* C++
+* JavaScript
+* SQL
 
-🚀 Java Algorithms & Data Structures
-
-🚀 SQL Database Projects
-
-🚀 Networking Labs
-
-🚀 AI Projects
-
-🚀 Cybersecurity Labs
+I'm particularly interested in using **Python for cybersecurity, automation, scripting, and security tooling**.
 
 ---
 
-## 📈 Contribution Graph
+## 🔧 Tools & Technologies
 
-<p align="center">
+* Git
+* GitHub
+* VS Code
+* Linux
+* Cisco Packet Tracer
+* MySQL
+* Spring Boot
+* Wireshark
+* Nmap
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dayaxguleid&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-
-💼 GitHub:
-https://github.com/dayaxguleid
-
-</p>
+> I'm continuously expanding this toolkit through hands-on practice and projects.
 
 ---
 
-## 💡 Favorite Quote
+## 🚀 What I'm Building
 
-> "First, solve the problem. Then, write the code."
+My goal is to build a portfolio that demonstrates practical cybersecurity skills rather than simply listing technologies.
 
-— John Johnson
+Some areas I'm working toward include:
+
+* 🛡️ Cybersecurity Labs
+* 🌐 Network Security Labs
+* 🔐 Web Security Projects
+* 🐍 Python Security Tools
+* 📊 Security Monitoring & Log Analysis
+* 💻 Secure Web Applications
+* 🌐 Networking Labs
 
 ---
 
-<h3 align="center">
+## 🎓 Education
 
-⭐ Thanks for visiting my profile! ⭐
+**Bachelor of Science in Computer Science**
+Egerton University
 
-</h3>
+---
+
+## 🎯 Career Goal
+
+My primary career goal is to become a **Cybersecurity Professional**.
+
+I'm building toward this by developing a strong foundation in:
+
+**Cybersecurity → Networking → Linux → Programming → Web Technologies**
+
+My supporting knowledge in software and web development helps me understand the systems and applications that cybersecurity professionals are responsible for protecting.
+
+---
+
+## 📈 My Learning Journey
+
+I'm committed to continuous learning, hands-on experimentation, and documenting what I build and discover.
+
+I believe the best way to learn cybersecurity is to **understand the fundamentals, practice them in controlled environments, build projects, and document the process.**
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/)
+* 🐙 [GitHub](https://github.com/dayaxguleid)
+
+---
+
+### ⚡ "Learn. Build. Break. Secure. Repeat."

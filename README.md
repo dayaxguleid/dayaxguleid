@@ -1,45 +1,89 @@
 # Hi, I'm nonchalant 👋
 
-### 🛡️ Cybersecurity-Focused Computer Science Student
+### 📊 Data Analytics & Networking-Focused Computer Science Student
 
-I'm a **Computer Science student at Egerton University** focused on building a career in **Cybersecurity**, with strong supporting skills in **Computer Networking** and **Web Development**.
+I'm a **Computer Science student at Egerton University** focused on building practical skills in **Data Analytics, Computer Networking, and Software Development**.
 
-I'm currently developing practical skills in cybersecurity, networking, programming, and software development while building projects and hands-on labs to strengthen my technical foundation.
+I enjoy working with data, understanding how computer networks operate, building applications, and turning what I learn into practical projects.
 
 ---
 
 ## 🎯 Current Focus
 
-* 🛡️ **Cybersecurity**
+* 📊 **Data Analytics**
+* 📈 **Data Visualization**
+* 📗 **Microsoft Excel**
+* 🗄️ **SQL & Databases**
+* 🐍 **Python**
 * 🌐 **Computer Networking**
-* 🐧 **Linux & Security Fundamentals**
-* 🐍 **Python for Cybersecurity**
-* 🔎 **Security Tools & Practical Labs**
+* 🔧 **Cisco Packet Tracer**
 * 💻 **Web Development**
 * ☕ **Java & Spring Boot**
-* 🗄️ **SQL & Databases**
 
 ---
 
-## 🛡️ Cybersecurity
+## 📊 Data Analytics
 
-I'm building my cybersecurity foundation through hands-on learning and practical labs, focusing on:
+Data Analytics is my **main area of focus**.
 
-* Networking & Network Security
-* Linux
-* Reconnaissance & Enumeration
-* Web Application Security
-* Vulnerability Assessment
-* Security Tools
-* Defensive Security
-* Incident Response Fundamentals
-* Security Automation with Python
+I'm developing practical skills in:
+
+* Data Cleaning
+* Data Preparation
+* Exploratory Data Analysis
+* Data Visualization
+* Microsoft Excel
+* PivotTables
+* Excel Formulas
+* Interactive Dashboards
+* SQL
+* Python for Data Analysis
+* Business Insights
+* Data Storytelling
+
+### 🛠️ Tools & Technologies
+
+* Microsoft Excel
+* SQL
+* Python
+* Pandas
+* Power BI
+* Git & GitHub
+
+My goal is to become capable of taking:
+
+**Raw Data → Clean Data → Analysis → Visualization → Insights**
 
 ---
 
-## 🌐 Networking
+## 📈 Featured Project
 
-Networking is one of my strongest supporting areas for cybersecurity.
+### 🚴 Bike Sales Data Analysis & Excel Dashboard
+
+Analyzed **1,000+ customer records** using Microsoft Excel to identify patterns in customer demographics and bike purchasing behavior.
+
+### 🔍 What I Did
+
+* 🧹 Cleaned and prepared the dataset
+* 🔎 Removed duplicate records
+* 🔄 Standardized categorical data
+* 🧮 Created an Age Bracket feature
+* 📊 Built PivotTables
+* 📈 Created charts and visualizations
+* 🎛️ Created an interactive dashboard
+* 💡 Extracted business insights
+
+### 🧰 Skills Demonstrated
+
+`Microsoft Excel` · `Data Cleaning` · `PivotTables` · `Excel Formulas` · `Data Visualization` · `Dashboard Development` · `Business Analysis`
+
+🔗 **[View Project](https://github.com/dayaxguleid/excel-data-analysis-project)**
+
+---
+
+## 🌐 Computer Networking
+
+Networking is my second major area of focus.
 
 I'm currently learning and practicing:
 
@@ -47,7 +91,8 @@ I'm currently learning and practicing:
 * OSI Model
 * IPv4 & IPv6
 * Subnetting
-* DNS & DHCP
+* DNS
+* DHCP
 * HTTP/HTTPS
 * Routing & Switching
 * VLANs
@@ -55,11 +100,28 @@ I'm currently learning and practicing:
 * Packet Analysis
 * Cisco Packet Tracer
 
+My goal is to develop a strong understanding of **how devices communicate, how networks are designed, and how network problems are identified and solved**.
+
+---
+
+## 🐍 Programming
+
+### Languages
+
+* 🐍 Python
+* ☕ Java
+* 💾 SQL
+* 🌐 JavaScript
+* C
+* C++
+
+I'm particularly interested in using **Python and SQL for data analysis, automation, and problem solving**.
+
 ---
 
 ## 💻 Web Development
 
-I also develop web applications to understand how modern applications are built and secured.
+I also develop my software and web development skills to understand how applications are designed and built.
 
 ### Technologies
 
@@ -73,50 +135,40 @@ I also develop web applications to understand how modern applications are built 
 
 ---
 
-## 🐍 Programming
-
-### Languages
-
-* Python
-* Java
-* C
-* C++
-* JavaScript
-* SQL
-
-I'm particularly interested in using **Python for cybersecurity, automation, scripting, and security tooling**.
-
----
-
 ## 🔧 Tools & Technologies
 
-* Git
-* GitHub
-* VS Code
-* Linux
-* Cisco Packet Tracer
-* MySQL
-* Spring Boot
-* Wireshark
-* Nmap
+### 📊 Data Analytics
 
-> I'm continuously expanding this toolkit through hands-on practice and projects.
+`Excel` `SQL` `Python` `Pandas` `Power BI`
+
+### 🌐 Networking
+
+`Cisco Packet Tracer` `Wireshark` `TCP/IP` `DNS` `DHCP`
+
+### 💻 Development
+
+`Python` `Java` `JavaScript` `Spring Boot` `MySQL` `REST APIs`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `VS Code` `MySQL Workbench`
 
 ---
 
 ## 🚀 What I'm Building
 
-My goal is to build a portfolio that demonstrates practical cybersecurity skills rather than simply listing technologies.
+My goal is to build a portfolio based on **practical projects and hands-on work**.
 
-Some areas I'm working toward include:
+I'm working toward projects in:
 
-* 🛡️ Cybersecurity Labs
-* 🌐 Network Security Labs
-* 🔐 Web Security Projects
-* 🐍 Python Security Tools
-* 📊 Security Monitoring & Log Analysis
-* 💻 Secure Web Applications
+* 📊 Data Analytics
+* 📈 Excel & Power BI Dashboards
+* 🗄️ SQL Data Analysis
+* 🐍 Python Data Projects
 * 🌐 Networking Labs
+* 🔧 Cisco Packet Tracer Labs
+* 💻 Web Applications
+* ☕ Java & Spring Boot Projects
 
 ---
 
@@ -127,23 +179,45 @@ Egerton University
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Direction
 
-My primary career goal is to become a **Cybersecurity Professional**.
+I'm building my career around two main areas:
 
-I'm building toward this by developing a strong foundation in:
+### 📊 Data Analytics
 
-**Cybersecurity → Networking → Linux → Programming → Web Technologies**
+My primary focus is developing the ability to work with data, identify patterns, create meaningful visualizations, and communicate useful insights.
 
-My supporting knowledge in software and web development helps me understand the systems and applications that cybersecurity professionals are responsible for protecting.
+### 🌐 Computer Networking
+
+I'm building strong networking fundamentals to understand how modern networks communicate, operate, and are managed.
+
+Programming and software development support both areas by strengthening my technical problem-solving skills.
 
 ---
 
-## 📈 My Learning Journey
+## 📚 My Learning Approach
 
-I'm committed to continuous learning, hands-on experimentation, and documenting what I build and discover.
+I believe the best way to learn technology is:
 
-I believe the best way to learn cybersecurity is to **understand the fundamentals, practice them in controlled environments, build projects, and document the process.**
+**Learn → Practice → Build → Document → Improve**
+
+I focus on turning what I learn into practical projects, exercises, and hands-on work.
+
+---
+
+## 📌 Portfolio Goals
+
+I'm currently working toward building a portfolio that demonstrates:
+
+* ✅ Excel data analysis
+* ✅ Data cleaning & visualization
+* ✅ SQL projects
+* ✅ Python data analysis
+* ✅ Interactive dashboards
+* ✅ Power BI projects
+* ✅ Networking labs
+* ✅ Cisco Packet Tracer projects
+* ✅ Software development projects
 
 ---
 
@@ -154,4 +228,5 @@ I believe the best way to learn cybersecurity is to **understand the fundamental
 
 ---
 
-### ⚡ "Learn. Build. Break. Secure. Repeat."
+### ⚡ Learn. Analyze. Build. Connect. Improve.
+

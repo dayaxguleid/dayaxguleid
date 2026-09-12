@@ -227,6 +227,11 @@ I'm currently working toward building a portfolio that demonstrates:
 * 🐙 [GitHub](https://github.com/dayaxguleid)
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayaxguleid\&show_icons=true\&theme=default\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaxguleid\&layout=compact\&theme=default\&hide_border=true)
 
 ### ⚡ Learn. Analyze. Build. Connect. Improve.
 

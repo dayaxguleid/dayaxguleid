@@ -4,7 +4,9 @@
 
 I'm a **Computer Science student at Egerton University** focused on building practical skills in **Data Analytics, Computer Networking, and Software Development**.
 
-I enjoy working with data, understanding how computer networks operate, building applications, and turning what I learn into practical projects.
+I enjoy working with data, discovering useful insights, understanding how computer networks operate, and building practical software projects.
+
+I'm building my skills through **hands-on projects, technical labs, and continuous learning**.
 
 ---
 
@@ -24,7 +26,7 @@ I enjoy working with data, understanding how computer networks operate, building
 
 ## 📊 Data Analytics
 
-Data Analytics is my **main area of focus**.
+**Data Analytics is my primary area of focus.**
 
 I'm developing practical skills in:
 
@@ -41,28 +43,21 @@ I'm developing practical skills in:
 * Business Insights
 * Data Storytelling
 
-### 🛠️ Tools & Technologies
+### 📌 My Data Analytics Workflow
 
-* Microsoft Excel
-* SQL
-* Python
-* Pandas
-* Power BI
-* Git & GitHub
+**Raw Data → Clean Data → Analyze → Visualize → Insights**
 
-My goal is to become capable of taking:
-
-**Raw Data → Clean Data → Analysis → Visualization → Insights**
+My goal is to develop the ability to turn raw datasets into meaningful information that can support better decisions.
 
 ---
 
-## 📈 Featured Project
+## ⭐ Featured Projects
 
 ### 🚴 Bike Sales Data Analysis & Excel Dashboard
 
-Analyzed **1,000+ customer records** using Microsoft Excel to identify patterns in customer demographics and bike purchasing behavior.
+A complete Microsoft Excel data analysis project analyzing **1,000+ customer records** to identify patterns in customer demographics and bike purchasing behavior.
 
-### 🔍 What I Did
+#### 🔍 What I Did
 
 * 🧹 Cleaned and prepared the dataset
 * 🔎 Removed duplicate records
@@ -70,22 +65,22 @@ Analyzed **1,000+ customer records** using Microsoft Excel to identify patterns 
 * 🧮 Created an Age Bracket feature
 * 📊 Built PivotTables
 * 📈 Created charts and visualizations
-* 🎛️ Created an interactive dashboard
+* 🎛️ Built an interactive dashboard
 * 💡 Extracted business insights
 
-### 🧰 Skills Demonstrated
+#### 🛠️ Skills Demonstrated
 
 `Microsoft Excel` · `Data Cleaning` · `PivotTables` · `Excel Formulas` · `Data Visualization` · `Dashboard Development` · `Business Analysis`
 
-🔗 **[View Project](https://github.com/dayaxguleid/excel-data-analysis-project)**
+🔗 **[View Project →](https://github.com/dayaxguleid/excel-data-analysis-project)**
 
 ---
 
-## 🌐 Computer Networking
+### 🌐 Networking Labs
 
-Networking is my second major area of focus.
+Hands-on networking exercises and Cisco Packet Tracer labs focused on understanding how computer networks operate.
 
-I'm currently learning and practicing:
+#### 📚 Areas of Practice
 
 * TCP/IP
 * OSI Model
@@ -93,6 +88,40 @@ I'm currently learning and practicing:
 * Subnetting
 * DNS
 * DHCP
+* Routing
+* Switching
+* VLANs
+* Network Troubleshooting
+* Packet Analysis
+* Cisco Packet Tracer
+
+🔗 **[View My GitHub →](https://github.com/dayaxguleid)**
+
+---
+
+### ☕ School Management System
+
+A Java and Spring Boot application designed to manage school-related information using a relational database.
+
+#### 🛠️ Technologies
+
+`Java` · `Spring Boot` · `MySQL` · `REST APIs` · `JPA` · `Database Design`
+
+🔗 **[View My GitHub →](https://github.com/dayaxguleid)**
+
+---
+
+## 🌐 Computer Networking
+
+Networking is my **second major area of focus**.
+
+I'm building a strong foundation in:
+
+* TCP/IP
+* OSI Model
+* IPv4 & IPv6
+* Subnetting
+* DNS & DHCP
 * HTTP/HTTPS
 * Routing & Switching
 * VLANs
@@ -100,7 +129,7 @@ I'm currently learning and practicing:
 * Packet Analysis
 * Cisco Packet Tracer
 
-My goal is to develop a strong understanding of **how devices communicate, how networks are designed, and how network problems are identified and solved**.
+I'm focused on understanding **how devices communicate, how networks are designed, and how network problems are identified and solved**.
 
 ---
 
@@ -108,20 +137,52 @@ My goal is to develop a strong understanding of **how devices communicate, how n
 
 ### Languages
 
-* 🐍 Python
-* ☕ Java
-* 💾 SQL
-* 🌐 JavaScript
-* C
-* C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 I'm particularly interested in using **Python and SQL for data analysis, automation, and problem solving**.
 
 ---
 
+## 🔧 Skills & Technologies
+
+### 📊 Data Analytics
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+### 🌐 Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+
+### 💻 Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
+
+---
+
 ## 💻 Web Development
 
-I also develop my software and web development skills to understand how applications are designed and built.
+I also develop my software and web development skills to strengthen my understanding of how applications are designed and built.
 
 ### Technologies
 
@@ -135,38 +196,19 @@ I also develop my software and web development skills to understand how applicat
 
 ---
 
-## 🔧 Tools & Technologies
-
-### 📊 Data Analytics
-
-`Excel` `SQL` `Python` `Pandas` `Power BI`
-
-### 🌐 Networking
-
-`Cisco Packet Tracer` `Wireshark` `TCP/IP` `DNS` `DHCP`
-
-### 💻 Development
-
-`Python` `Java` `JavaScript` `Spring Boot` `MySQL` `REST APIs`
-
-### 🛠️ Tools
-
-`Git` `GitHub` `VS Code` `MySQL Workbench`
-
----
-
 ## 🚀 What I'm Building
 
-My goal is to build a portfolio based on **practical projects and hands-on work**.
+I'm building a portfolio based on **practical projects and hands-on work** rather than simply listing technologies.
 
-I'm working toward projects in:
+My portfolio is growing around:
 
-* 📊 Data Analytics
-* 📈 Excel & Power BI Dashboards
+* 📊 Data Analytics Projects
+* 📈 Excel Dashboards
+* 📊 Power BI Dashboards
 * 🗄️ SQL Data Analysis
 * 🐍 Python Data Projects
 * 🌐 Networking Labs
-* 🔧 Cisco Packet Tracer Labs
+* 🔧 Cisco Packet Tracer Projects
 * 💻 Web Applications
 * ☕ Java & Spring Boot Projects
 
@@ -179,45 +221,41 @@ Egerton University
 
 ---
 
-## 🎯 Career Direction
-
-I'm building my career around two main areas:
-
-### 📊 Data Analytics
-
-My primary focus is developing the ability to work with data, identify patterns, create meaningful visualizations, and communicate useful insights.
-
-### 🌐 Computer Networking
-
-I'm building strong networking fundamentals to understand how modern networks communicate, operate, and are managed.
-
-Programming and software development support both areas by strengthening my technical problem-solving skills.
-
----
-
 ## 📚 My Learning Approach
 
 I believe the best way to learn technology is:
 
 **Learn → Practice → Build → Document → Improve**
 
-I focus on turning what I learn into practical projects, exercises, and hands-on work.
+I focus on turning what I learn into practical projects and hands-on exercises while documenting my progress on GitHub.
 
 ---
 
-## 📌 Portfolio Goals
+## 📈 Career Direction
 
-I'm currently working toward building a portfolio that demonstrates:
+I'm building my career around two main areas:
 
-* ✅ Excel data analysis
-* ✅ Data cleaning & visualization
-* ✅ SQL projects
-* ✅ Python data analysis
-* ✅ Interactive dashboards
-* ✅ Power BI projects
-* ✅ Networking labs
-* ✅ Cisco Packet Tracer projects
-* ✅ Software development projects
+### 📊 Data Analytics
+
+My primary focus is developing the ability to:
+
+**Collect → Clean → Analyze → Visualize → Communicate**
+
+data to produce useful insights.
+
+### 🌐 Computer Networking
+
+I'm developing strong networking fundamentals to understand how modern networks communicate, operate, and are managed.
+
+Programming and software development support both areas by strengthening my technical problem-solving abilities.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayaxguleid\&show_icons=true\&theme=default\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaxguleid\&layout=compact\&theme=default\&hide_border=true)
 
 ---
 
@@ -227,11 +265,6 @@ I'm currently working toward building a portfolio that demonstrates:
 * 🐙 [GitHub](https://github.com/dayaxguleid)
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayaxguleid\&show_icons=true\&theme=default\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaxguleid\&layout=compact\&theme=default\&hide_border=true)
 
 ### ⚡ Learn. Analyze. Build. Connect. Improve.
 

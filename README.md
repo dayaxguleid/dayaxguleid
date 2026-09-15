@@ -1,4 +1,4 @@
-# Hi, I'm nonchalant 👋
+# Hi, I'm Mohamed 👋
 
 ### 📊 Data Analytics & Networking-Focused Computer Science Student
 
